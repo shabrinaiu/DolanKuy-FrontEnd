@@ -1,0 +1,26 @@
+00:00:01.321260 VirtualBox GUI VM Selector Window 6.1.4 r136177 win.amd64 (Feb 18 2020 17:19:29) release log
+00:00:01.321263 Log opened 2020-10-02T02:00:43.820528900Z
+00:00:01.321264 Build Type: release
+00:00:01.321268 OS Product: Windows 10
+00:00:01.321269 OS Release: 10.0.18363
+00:00:01.321270 OS Service Pack: 
+00:00:01.342976 DMI Product Name: Swift SF314-41
+00:00:01.348142 DMI Product Version: V1.02
+00:00:01.348167 Firmware type: UEFI
+00:00:01.348493 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.348518 Host RAM: 10170MB (9.9GB) total, 4819MB (4.7GB) available
+00:00:01.348523 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.348524 Process ID: 14776
+00:00:01.348525 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.348779 Qt version: 5.6.2
+00:00:01.404644 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.312546 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.369973 refreshCertificates/#3: Found 1/77 SSL certs we/you trust (previously 1/56).
+00:00:02.416797 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:13.883410 2D support test succeeded
+00:01:05.658967 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:05.710980 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:55.616462 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:55.770522 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:56.313423 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:56.359043 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,68 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-native-run-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\vcs.xml" timestamp="1603081460655" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\modules\To_Do_List.iml" timestamp="1603081802967" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1603081803111" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1603081803231" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\runConfigurations.xml" timestamp="1603081446248" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1603081803415" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1603081803535" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" timestamp="1603081803299" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" timestamp="1603081803163" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" timestamp="1603081803439" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\workspace.xml" timestamp="1603088591387" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_test_core_1_3_0_aar.xml" timestamp="1603081803323" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1603081803183" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\misc.xml" timestamp="1603081540405" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_core_core_1_3_1_aar.xml" timestamp="1603081803175" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_2_0_2_aar.xml" timestamp="1603081803139" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1603081803275" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_test_runner_1_3_0_aar.xml" timestamp="1603081803379" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1603081803491" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1603081803223" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\modules.xml" timestamp="1603081803011" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" timestamp="1603081803071" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_test_monitor_1_3_0_aar.xml" timestamp="1603081803367" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1603081803239" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_transition_transition_1_2_0_aar.xml" timestamp="1603081803395" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1603081803047" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1603081803503" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1603081803191" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1603081803471" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\jarRepositories.xml" timestamp="1603081803027" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1603081803287" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" timestamp="1603081803347" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_2_jar.xml" timestamp="1603081803147" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1603081803263" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1603081803523" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_cardview_cardview_1_0_0_aar.xml" timestamp="1603081803119" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\modules\app\app.iml" timestamp="1603088621678" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1603081803203" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" timestamp="1603081803091" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1603081803407" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_2_aar.xml" timestamp="1603081803359" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\gradle.xml" timestamp="1603081446244" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1603081803483" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1603081803427" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1603081803307" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1603081803099" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1603081803131" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1603081803211" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" timestamp="1603081803335" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1603081803447" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1603081803251" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" timestamp="1603081803079" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__com_google_android_material_material_1_2_1_aar.xml" timestamp="1603081803463" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1603081803059" />
+    <file path="C:\Users\brina\AndroidStudioProjects\to-do-list_android\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1603081803511" />
+  </project-files>
+</conversion>

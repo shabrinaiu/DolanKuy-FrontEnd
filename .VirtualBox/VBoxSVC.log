@@ -1,0 +1,148 @@
+00:00:00.003492 main     VirtualBox COM Server 6.1.4 r136177 win.amd64 (Feb 18 2020 17:19:29) release log
+00:00:00.003495 main     Log opened 2020-10-02T02:00:43.196476300Z
+00:00:00.003496 main     Build Type: release
+00:00:00.003522 main     OS Product: Windows 10
+00:00:00.003524 main     OS Release: 10.0.18363
+00:00:00.003525 main     OS Service Pack: 
+00:00:00.035498 main     DMI Product Name: Swift SF314-41
+00:00:00.052424 main     DMI Product Version: V1.02
+00:00:00.052749 main     Firmware type: UEFI
+00:00:00.053088 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.054007 main     Host RAM: 10170MB (9.9GB) total, 4858MB (4.7GB) available
+00:00:00.054015 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.054016 main     Process ID: 552
+00:00:00.054017 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.203744          VirtualBox: object creation starts
+00:00:00.204387          Home directory: 'C:\Users\brina\.VirtualBox'
+00:00:00.204595          Installed Drivers:
+00:00:00.209266            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.4.36177)
+00:00:00.211264            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.4.36177)
+00:00:00.212774            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.4.36177)
+00:00:00.232414          Loading settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.236720          usbLibGetDevices: Starting USB device enumeration
+00:00:00.246258          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&800def2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.259868          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.259954          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.261198          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.261654          USB: Unknown USB device detected (idVendor: 0x04ca, idProduct: 0x3016)
+00:00:00.261718          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb5c5)
+00:00:00.261762          USB: Unknown USB device detected (idVendor: 0x1c7a, idProduct: 0x0570)
+00:00:00.407481          netIfIsWireless: CreateFile on '\\.\{DAAB7306-DE1C-417E-BC83-EB7153FD79CC}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.408415          netIfIsWireless: CreateFile on '\\.\{31F20AD3-A941-4A93-92C2-EAFB4ED5914D}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.409243          netIfIsWireless: CreateFile on '\\.\{E1811346-BB42-4975-B7CB-E535204D5AEA}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.411030          netIfIsWireless: CreateFile on '\\.\{59A79536-C65E-4220-B9F6-C5E04326B49A}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.423582          HostDnsMonitor: initializing
+00:00:00.432204          HostDnsMonitor: updating information
+00:00:00.432324          HostDnsMonitor: old information
+00:00:00.432326            no server entries
+00:00:00.432327            no domain set
+00:00:00.432328            no search string entries
+00:00:00.432328          HostDnsMonitor: new information
+00:00:00.432329            server 1: 192.168.1.1
+00:00:00.432330            no domain set
+00:00:00.432330            no search string entries
+00:00:00.507618          VD: VDInit finished with VINF_SUCCESS
+00:00:00.521137          Loading settings file "C:\Users\brina\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:00:00.523360          ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Cannot attach medium 'C:\Program Files\Oracle\VirtualBox\VBoxGuestAdditions.iso' {bf0d124e-7f62-4f9c-8bca-e92a8986a70d}: medium is already associated with the current state of machine uuid {1552ba9f-dfc0-4761-bdf5-19e9e9430369}!}, preserve=false aResultDetail=0
+00:00:00.536063          Loading settings file "C:\Users\brina\VirtualBox VMs\Ubuntu Clone\Ubuntu Clone.vbox" with version "1.16-windows"
+00:00:00.546933          Loading settings file "C:\Users\brina\VirtualBox VMs\Ubuntu brina\Ubuntu brina.vbox" with version "1.16-windows"
+00:00:00.548016          VirtualBox: object created
+00:00:01.330126          Loading settings file "C:\Users\brina\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:00:01.330580          ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Cannot attach medium 'C:\Program Files\Oracle\VirtualBox\VBoxGuestAdditions.iso' {bf0d124e-7f62-4f9c-8bca-e92a8986a70d}: medium is already associated with the current state of machine uuid {1552ba9f-dfc0-4761-bdf5-19e9e9430369}!}, preserve=false aResultDetail=0
+00:00:01.331844          Loading settings file "C:\Users\brina\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:00:01.332569          ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Cannot attach medium 'C:\Program Files\Oracle\VirtualBox\VBoxGuestAdditions.iso' {bf0d124e-7f62-4f9c-8bca-e92a8986a70d}: medium is already associated with the current state of machine uuid {1552ba9f-dfc0-4761-bdf5-19e9e9430369}!}, preserve=false aResultDetail=0
+00:00:01.335274          Loading settings file "C:\Users\brina\VirtualBox VMs\Ubuntu\Ubuntu.vbox" with version "1.16-windows"
+00:00:01.335715          ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Cannot attach medium 'C:\Program Files\Oracle\VirtualBox\VBoxGuestAdditions.iso' {bf0d124e-7f62-4f9c-8bca-e92a8986a70d}: medium is already associated with the current state of machine uuid {1552ba9f-dfc0-4761-bdf5-19e9e9430369}!}, preserve=false aResultDetail=0
+00:00:01.374364          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:01.619313          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The given path '{cbf5d0b1-c6c0-44f1-ad47-4ca7463bf24e}' is not fully qualified}, preserve=false aResultDetail=0
+00:00:01.646743          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The given path '{cbf5d0b1-c6c0-44f1-ad47-4ca7463bf24e}' is not fully qualified}, preserve=false aResultDetail=0
+00:00:01.681980          ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The given path '{cbf5d0b1-c6c0-44f1-ad47-4ca7463bf24e}' is not fully qualified}, preserve=false aResultDetail=0
+00:00:03.898350          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.923947          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.447016          netIfIsWireless: CreateFile on '\\.\{DAAB7306-DE1C-417E-BC83-EB7153FD79CC}' failed with rcWin=2 (0x2) - ignoring
+00:00:13.448558          netIfIsWireless: CreateFile on '\\.\{31F20AD3-A941-4A93-92C2-EAFB4ED5914D}' failed with rcWin=2 (0x2) - ignoring
+00:00:13.450047          netIfIsWireless: CreateFile on '\\.\{E1811346-BB42-4975-B7CB-E535204D5AEA}' failed with rcWin=2 (0x2) - ignoring
+00:00:13.453206          netIfIsWireless: CreateFile on '\\.\{59A79536-C65E-4220-B9F6-C5E04326B49A}' failed with rcWin=2 (0x2) - ignoring
+00:00:20.209974 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:20.217869 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&800def2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:20.232137 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:20.232321 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:20.232592 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:21.597590 SVCHelper Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.610154 SVCHelper Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.624913 SVCHelper Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.647925 SVCHelper Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.663752 SVCHelper Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:22.288266 dns-monitor HostDnsMonitor: updating information
+00:00:22.288337 dns-monitor HostDnsMonitor: unchanged
+00:00:24.286350          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:24.303122          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:24.323211          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:24.339009          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:24.353748          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:24.369068          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:24.415012          netIfIsWireless: CreateFile on '\\.\{DAAB7306-DE1C-417E-BC83-EB7153FD79CC}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.415689          netIfIsWireless: CreateFile on '\\.\{31F20AD3-A941-4A93-92C2-EAFB4ED5914D}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.416325          netIfIsWireless: CreateFile on '\\.\{E1811346-BB42-4975-B7CB-E535204D5AEA}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.417457          netIfIsWireless: CreateFile on '\\.\{59A79536-C65E-4220-B9F6-C5E04326B49A}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.430398          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:24.456380          netIfIsWireless: CreateFile on '\\.\{DAAB7306-DE1C-417E-BC83-EB7153FD79CC}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.457008          netIfIsWireless: CreateFile on '\\.\{31F20AD3-A941-4A93-92C2-EAFB4ED5914D}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.457583          netIfIsWireless: CreateFile on '\\.\{E1811346-BB42-4975-B7CB-E535204D5AEA}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.458669          netIfIsWireless: CreateFile on '\\.\{59A79536-C65E-4220-B9F6-C5E04326B49A}' failed with rcWin=2 (0x2) - ignoring
+00:00:24.468505          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:26.199617 dns-monitor HostDnsMonitor: updating information
+00:00:26.199701 dns-monitor HostDnsMonitor: unchanged
+00:00:29.177861          netIfIsWireless: CreateFile on '\\.\{DAAB7306-DE1C-417E-BC83-EB7153FD79CC}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.178597          netIfIsWireless: CreateFile on '\\.\{31F20AD3-A941-4A93-92C2-EAFB4ED5914D}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.179263          netIfIsWireless: CreateFile on '\\.\{E1811346-BB42-4975-B7CB-E535204D5AEA}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.180578          netIfIsWireless: CreateFile on '\\.\{59A79536-C65E-4220-B9F6-C5E04326B49A}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.197634          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:29.229719          netIfIsWireless: CreateFile on '\\.\{DAAB7306-DE1C-417E-BC83-EB7153FD79CC}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.230339          netIfIsWireless: CreateFile on '\\.\{31F20AD3-A941-4A93-92C2-EAFB4ED5914D}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.230926          netIfIsWireless: CreateFile on '\\.\{E1811346-BB42-4975-B7CB-E535204D5AEA}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.232027          netIfIsWireless: CreateFile on '\\.\{59A79536-C65E-4220-B9F6-C5E04326B49A}' failed with rcWin=2 (0x2) - ignoring
+00:00:29.243986          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:35.051974 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:35.059824 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&800def2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:35.074087 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:35.074323 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:35.074575 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:01:03.377213 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:01:03.385822 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&800def2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:01:03.401169 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:01:03.401437 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#VID_05E3&PID_0608#6&15d232f6&0&2#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:01:03.401687 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:01:04.280845 createBase Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:04.840639          Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:04.861903          Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:04.881456          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:04.908991          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:01:04.909103          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:01:04.909239          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:04.931312          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:01:04.932276          Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:16.216272          Launched VM: 72321200 pid: 6920 (0x1b08) frontend: GUI/Qt name: Oracle
+00:01:21.314958          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:21.662579          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:21.931359          netIfIsWireless: CreateFile on '\\.\{DAAB7306-DE1C-417E-BC83-EB7153FD79CC}' failed with rcWin=2 (0x2) - ignoring
+00:01:21.933052          netIfIsWireless: CreateFile on '\\.\{31F20AD3-A941-4A93-92C2-EAFB4ED5914D}' failed with rcWin=2 (0x2) - ignoring
+00:01:21.934699          netIfIsWireless: CreateFile on '\\.\{E1811346-BB42-4975-B7CB-E535204D5AEA}' failed with rcWin=2 (0x2) - ignoring
+00:01:21.937452          netIfIsWireless: CreateFile on '\\.\{59A79536-C65E-4220-B9F6-C5E04326B49A}' failed with rcWin=2 (0x2) - ignoring
+00:01:54.901548          Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:55.017296          Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:55.035009 SaveState Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:55.565840          Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:55.630125          Saving settings file "C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vbox" with version "1.16-windows"
+00:01:58.583696          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:58.600327          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:58.615960          Saving settings file "C:\Users\brina\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:59.174290 Watcher  Saving settings file "C:\Users\brina\VirtualBox VMs\Ubuntu Clone\Ubuntu Clone.vbox" with version "1.16-windows"
+00:08:54.039663 main     VirtualBox: object deletion starts
+00:08:54.039974 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\brina\VirtualBox VMs\Ubuntu Clone\Ubuntu Clone.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:08:54.040740 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\brina\VirtualBox VMs\Ubuntu brina\Ubuntu brina.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:08:54.041442 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\brina\VirtualBox VMs\Oracle\Oracle.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:08:54.043159 main     HostDnsMonitor: shutting down ...
+00:08:54.043266 main     HostDnsMonitor: shut down
+00:08:54.047483 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:08:54.047947 main     VirtualBox: object deleted

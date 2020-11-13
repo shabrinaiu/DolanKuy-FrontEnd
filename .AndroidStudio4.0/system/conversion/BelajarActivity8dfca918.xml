@@ -1,0 +1,67 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-native-run-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_2_aar.xml" timestamp="1601826346827" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_core_core_1_3_0_aar.xml" timestamp="1601826346719" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\misc.xml" timestamp="1601863387765" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\workspace.xml" timestamp="1601863321782" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1601826346751" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_test_monitor_1_3_0_aar.xml" timestamp="1601826346831" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1601826346787" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1601826346739" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1601826346667" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" timestamp="1601826346867" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" timestamp="1601826346819" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" timestamp="1601826346687" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\jarRepositories.xml" timestamp="1601826157841" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1601826346775" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1601826346731" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1601826346803" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_test_core_1_3_0_aar.xml" timestamp="1601826346807" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1601826346767" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\BelajarActivity.iml" timestamp="1601825961664" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1601826346691" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\gradle.xml" timestamp="1601511734000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\runConfigurations.xml" timestamp="1601275244000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\app\app.iml" timestamp="1601863387748" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__com_google_android_material_material_1_2_1_aar.xml" timestamp="1601826346879" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_test_runner_1_3_0_aar.xml" timestamp="1601826346839" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1601826346875" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1601826346863" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" timestamp="1601826346679" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" timestamp="1601826346711" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" timestamp="1601826346791" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\modules.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" timestamp="1601826346815" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1601826346707" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" timestamp="1601826346675" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1601826346851" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1601826346855" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1601826346763" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1601826346723" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_cardview_cardview_1_0_0_aar.xml" timestamp="1601826346699" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1601826346755" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_transition_transition_1_2_0_aar.xml" timestamp="1601826346843" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1601274306000" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1601826346743" />
+    <file path="C:\Users\brina\Downloads\BelajarActivity\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1601275314000" />
+  </project-files>
+</conversion>

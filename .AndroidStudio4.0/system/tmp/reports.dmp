@@ -1,0 +1,85 @@
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "4.0.1.0",
+  "kotlinVersion": "1.3.72-release-Studio4.0-5",
+  "uptime": 9361925,
+  "reportTime": 1603090488894,
+  "sessionId": "aa69d99b-2ff7-487f-8ce6-86708093ec36",
+  "threadDumpPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-135443-AI-193.6911.18.40.6626763\\threadDump-20201019-135448.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "4.0.1.0",
+  "kotlinVersion": "1.3.72-release-Studio4.0-5",
+  "uptime": 9366977,
+  "reportTime": 1603090493945,
+  "sessionId": "aa69d99b-2ff7-487f-8ce6-86708093ec36",
+  "threadDumpPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-135443-AI-193.6911.18.40.6626763\\threadDump-20201019-135453.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "4.0.1.0",
+  "kotlinVersion": "1.3.72-release-Studio4.0-5",
+  "uptime": 10379311,
+  "reportTime": 1603091499450,
+  "sessionId": "aa69d99b-2ff7-487f-8ce6-86708093ec36",
+  "threadDumpPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-135443-AI-193.6911.18.40.6626763\\threadDump-20201019-141139.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "Freeze",
+  "studioVersion": "4.0.1.0",
+  "kotlinVersion": "1.3.72-release-Studio4.0-5",
+  "uptime": 10382533,
+  "reportTime": 1603091502671,
+  "sessionId": "aa69d99b-2ff7-487f-8ce6-86708093ec36",
+  "threadDumpPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-135443-AI-193.6911.18.40.6626763\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-135443-AI-193.6911.18.40.6626763\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-135443-AI-193.6911.18.40.6626763\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-135443-AI-193.6911.18.40.6626763\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "true",
+  "totalDuration": 1016077
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "4.0.1.0",
+  "kotlinVersion": "1.3.72-release-Studio4.0-5",
+  "uptime": 13192229,
+  "reportTime": 1603094312383,
+  "sessionId": "aa69d99b-2ff7-487f-8ce6-86708093ec36",
+  "threadDumpPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-145826-AI-193.6911.18.40.6626763\\threadDump-20201019-145832.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "PerformanceThreadDump",
+  "studioVersion": "4.0.1.0",
+  "kotlinVersion": "1.3.72-release-Studio4.0-5",
+  "uptime": 13199306,
+  "reportTime": 1603094319444,
+  "sessionId": "aa69d99b-2ff7-487f-8ce6-86708093ec36",
+  "threadDumpPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-145826-AI-193.6911.18.40.6626763\\threadDump-20201019-145839.txt",
+  "description": "UIFreeze"
+}
+{
+  "formatVersion": 2,
+  "type": "Freeze",
+  "studioVersion": "4.0.1.0",
+  "kotlinVersion": "1.3.72-release-Studio4.0-5",
+  "uptime": 13200411,
+  "reportTime": 1603094320550,
+  "sessionId": "aa69d99b-2ff7-487f-8ce6-86708093ec36",
+  "threadDumpPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-145826-AI-193.6911.18.40.6626763-SaveSessionBase.setState-13sec\\diagnosticReport-hotPathStackTrace.txt",
+  "profileDiagnosticsPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-145826-AI-193.6911.18.40.6626763-SaveSessionBase.setState-13sec\\diagnosticReport-profileDiagnostics.txt",
+  "actionsDiagnosticsPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-145826-AI-193.6911.18.40.6626763-SaveSessionBase.setState-13sec\\diagnosticReport-actionsDiagnostics.txt",
+  "memoryUseDiagnosticsPath": "C:\\Users\\brina\\.AndroidStudio4.0\\system\\log\\threadDumps-freeze-20201019-145826-AI-193.6911.18.40.6626763-SaveSessionBase.setState-13sec\\diagnosticReport-memoryUseDiagnostics.txt",
+  "timedOut": "false",
+  "totalDuration": 13990
+}
